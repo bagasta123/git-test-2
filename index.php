@@ -8,6 +8,9 @@
 </head>
 <body>
      <h3>Belajar Git nih</h3>
+    <ul>
+        <li>Belajar git</li>
+    </ul>
      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto quam molestiae a ipsa error numquam natus. Blanditiis deleniti illo quae aut! Quo deserunt distinctio voluptatum eligendi officia fugit, omnis inventore.</p>
 </body>
 </html>
